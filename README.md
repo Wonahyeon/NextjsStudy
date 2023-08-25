@@ -18,3 +18,5 @@ Next.js는 웹 애플리케이션을 빌드하고 배포하는 데 강력한 도
   
 ## 정리
 🔗https://wonah99.tistory.com/68
+
+🔔git user.email 오류 확인 후 변경
