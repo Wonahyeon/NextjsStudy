@@ -11,7 +11,7 @@
       "body": "css is ..."
     },
     {
-      "title": "javascript",
+      "title": "Javascript",
       "body": "JavaScript",
       "id": 3
     },
@@ -39,11 +39,6 @@
       "title": "c",
       "body": "c",
       "id": 8
-    },
-    {
-      "title": "d",
-      "body": "d",
-      "id": 9
     }
   ],
   "posts": [
